@@ -4,8 +4,7 @@ This repository contains some scripts to process sea surface temperature from re
 ### Main libraries 
 -------------
 The principal libraries using are: <br>
-<br>
-- xarray uses to read netcdf files. <br>
+- xarray uses to read and create netcdf files. <br>
 - numpy uses to work arrays. <br>
 
 ### Contact
